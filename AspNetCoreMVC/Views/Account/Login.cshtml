@@ -1,0 +1,76 @@
+﻿@model LoginViewModel
+
+@{
+    ViewBag.Title = "User Login";
+}
+
+
+
+<div class="row">
+    <div class="col-md-6">
+        <h1>Local Account Login</h1>
+        <hr />
+        <form method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label asp-for="RememberMe">
+                        <input asp-for="RememberMe" />
+                        @Html.DisplayNameFor(m => m.RememberMe)
+                    </label>
+                </div>
+            </div>
+            <div style="display:none">
+                @for (int i = 0; i < Model.ExternalIdentityLogins.Count; i++)
+                {
+                    <button type="submit" class="btn btn-primary"
+                                asp-for="@Model.ExternalIdentityLogins[i].Name">                               
+                                </button>
+                }     
+            </div>
+            <button type="submit" class="btn btn-primary">Login</button>
+            <div>
+                <a asp-action="ForgotPassword">Forgot Password</a>
+            </div>
+        </form>
+    </div>
+    <div class="col-md-6">
+        <h1>External Account Login</h1>
+        <hr />
+        @{
+            if (Model.ExternalIdentityLogins.Count == 0)
+            {
+                <div>No externl logins registerd.</div>
+            }
+            else
+            {
+                <form method="post" asp-action="ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl">
+                    <div>
+                        @foreach (var authenticationScheme in Model.ExternalIdentityLogins)
+                        {
+                            <div class="col-md-12 m-2">
+                                <button type="submit" class="btn btn-primary" 
+                                name="provider" value="@authenticationScheme.Name"
+                                title="Login using your @authenticationScheme.DisplayName account"
+                                @(authenticationScheme.Name == "Facebook" ? "disabled" : "")>
+                                    @(authenticationScheme.Name == "Facebook" ? "Facebook - AppID & App Secret not registered" : @authenticationScheme.DisplayName)
+                                </button>
+                            </div>
+                        }
+                    </div>
+                </form>
+            }
+        }
+
+    </div>
+</div>

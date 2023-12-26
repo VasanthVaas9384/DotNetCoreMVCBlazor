@@ -1,0 +1,764 @@
+2023-11-05 16:32:46.0701|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Account/ConfirmEmail.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Account/ForgotPassword.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Account/ForgotPasswordConfirmation.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Account/Login.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Account/PasswordReset.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Account/PasswordResetConfirmation.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Account/Register.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/AccessDenied.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/CreateRole.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/EditRole.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/EditUser.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/EditUsersInRole.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/ListRoles.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/ListUsers.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/ManageUserClaimsFromUserView.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/ManageUserRoles.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/CustomError/CentralisedError.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/CustomError/EmployeeNotFound.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/CustomError/GlobalException.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Home/Create.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Home/Details.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Home/Edit.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/NotFound.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2023-11-05 16:32:46.1259|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2023-11-05 16:32:46.1471|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2023-11-05 16:32:46.2407|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\vasan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-05 16:32:46.3635|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting
+2023-11-05 16:32:46.3713|DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\vasan\AppData\Local\ASP.NET\DataProtection-Keys\key-46c73156-3830-4beb-9b1a-6bc068ad3b9c.xml'.
+2023-11-05 16:32:46.3713|DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\vasan\AppData\Local\ASP.NET\DataProtection-Keys\key-ca36b2ff-d14b-46f0-94e4-36296723aa8e.xml'.
+2023-11-05 16:32:46.3883|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {46c73156-3830-4beb-9b1a-6bc068ad3b9c}.
+2023-11-05 16:32:46.3883|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {ca36b2ff-d14b-46f0-94e4-36296723aa8e}.
+2023-11-05 16:32:46.4030|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver|Considering key {46c73156-3830-4beb-9b1a-6bc068ad3b9c} with expiration date 2023-07-02 18:28:10Z as default key.
+2023-11-05 16:32:46.4030|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver|Key {46c73156-3830-4beb-9b1a-6bc068ad3b9c} is no longer under consideration as default key because it is expired, revoked, or cannot be deciphered.
+2023-11-05 16:32:46.4030|DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-11-05 16:32:46.4153|DEBUG|Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor|Decrypting secret element using Windows DPAPI.
+2023-11-05 16:32:46.4153|DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-11-05 16:32:46.4153|DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2023-11-05 16:32:46.4153|DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2023-11-05 16:32:46.4321|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver|Repository contains no viable default key. Caller should generate a key with immediate activation.
+2023-11-05 16:32:46.4321|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider|Policy resolution states that a new key should be added to the key ring.
+2023-11-05 16:32:46.4321|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Creating key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} with creation date 2023-11-05 11:02:46Z, activation date 2023-11-05 11:02:46Z, and expiration date 2024-02-03 11:02:46Z.
+2023-11-05 16:32:46.4321|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Descriptor deserializer type for key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} is 'Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'.
+2023-11-05 16:32:46.4463|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|No key escrow sink found. Not writing key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} to escrow.
+2023-11-05 16:32:46.4463|DEBUG|Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlEncryptor|Encrypting to Windows DPAPI for current user account (VAAS\Vaas).
+2023-11-05 16:32:46.4463|INFO|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Writing data to file 'C:\Users\vasan\AppData\Local\ASP.NET\DataProtection-Keys\key-e16e723b-4e4c-43b1-bfd8-141f8ac67a05.xml'.
+2023-11-05 16:32:46.4463|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Key cache expiration token triggered by 'CreateNewKey' operation.
+2023-11-05 16:32:46.4463|DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\vasan\AppData\Local\ASP.NET\DataProtection-Keys\key-46c73156-3830-4beb-9b1a-6bc068ad3b9c.xml'.
+2023-11-05 16:32:46.4463|DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\vasan\AppData\Local\ASP.NET\DataProtection-Keys\key-ca36b2ff-d14b-46f0-94e4-36296723aa8e.xml'.
+2023-11-05 16:32:46.4463|DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\vasan\AppData\Local\ASP.NET\DataProtection-Keys\key-e16e723b-4e4c-43b1-bfd8-141f8ac67a05.xml'.
+2023-11-05 16:32:46.4463|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {46c73156-3830-4beb-9b1a-6bc068ad3b9c}.
+2023-11-05 16:32:46.4463|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {ca36b2ff-d14b-46f0-94e4-36296723aa8e}.
+2023-11-05 16:32:46.4463|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05}.
+2023-11-05 16:32:46.4463|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver|Considering key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} with expiration date 2024-02-03 11:02:46Z as default key.
+2023-11-05 16:32:46.4463|DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-11-05 16:32:46.4463|DEBUG|Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor|Decrypting secret element using Windows DPAPI.
+2023-11-05 16:32:46.4631|DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-11-05 16:32:46.4631|DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2023-11-05 16:32:46.4631|DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2023-11-05 16:32:46.4631|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider|Using key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} as the default key.
+2023-11-05 16:32:46.4631|DEBUG|Microsoft.AspNetCore.DataProtection.Internal.DataProtectionHostedService|Key ring with default key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} was loaded during application startup.
+2023-11-05 16:32:46.5812|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer|Unable to locate an appropriate development https certificate.
+2023-11-05 16:33:20.5887|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Account/ConfirmEmail.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Account/ForgotPassword.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Account/ForgotPasswordConfirmation.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Account/Login.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Account/PasswordReset.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Account/PasswordResetConfirmation.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Account/Register.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/AccessDenied.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/CreateRole.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/EditRole.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/EditUser.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/EditUsersInRole.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/ListRoles.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/ListUsers.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/ManageUserClaimsFromUserView.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Administration/ManageUserRoles.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/CustomError/CentralisedError.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/CustomError/EmployeeNotFound.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/CustomError/GlobalException.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Home/Create.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Home/Details.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Home/Edit.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/NotFound.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2023-11-05 16:33:20.6377|DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2023-11-05 16:33:20.6522|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2023-11-05 16:33:20.6871|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\vasan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-05 16:33:20.7692|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting
+2023-11-05 16:33:20.7749|DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\vasan\AppData\Local\ASP.NET\DataProtection-Keys\key-46c73156-3830-4beb-9b1a-6bc068ad3b9c.xml'.
+2023-11-05 16:33:20.7749|DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\vasan\AppData\Local\ASP.NET\DataProtection-Keys\key-ca36b2ff-d14b-46f0-94e4-36296723aa8e.xml'.
+2023-11-05 16:33:20.7749|DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\vasan\AppData\Local\ASP.NET\DataProtection-Keys\key-e16e723b-4e4c-43b1-bfd8-141f8ac67a05.xml'.
+2023-11-05 16:33:20.7749|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {46c73156-3830-4beb-9b1a-6bc068ad3b9c}.
+2023-11-05 16:33:20.7749|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {ca36b2ff-d14b-46f0-94e4-36296723aa8e}.
+2023-11-05 16:33:20.7749|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05}.
+2023-11-05 16:33:20.7902|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver|Considering key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} with expiration date 2024-02-03 11:02:46Z as default key.
+2023-11-05 16:33:20.7902|DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-11-05 16:33:20.7902|DEBUG|Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor|Decrypting secret element using Windows DPAPI.
+2023-11-05 16:33:20.7902|DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-11-05 16:33:20.7902|DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2023-11-05 16:33:20.7902|DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2023-11-05 16:33:20.8076|DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider|Using key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} as the default key.
+2023-11-05 16:33:20.8076|DEBUG|Microsoft.AspNetCore.DataProtection.Internal.DataProtectionHostedService|Key ring with default key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} was loaded during application startup.
+2023-11-05 16:33:20.8385|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly AspNetCoreMVC
+2023-11-05 16:33:20.8385|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2023-11-05 16:33:20.8385|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2023-11-05 16:33:20.8385|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2023-11-05 16:33:20.8385|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2023-11-05 16:33:20.8385|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\
+2023-11-05 16:33:20.8385|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started
+2023-11-05 16:33:20.8857|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/ - -
+2023-11-05 16:33:20.9318|DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed.
+2023-11-05 16:33:20.9318|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:20.9581|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/'
+2023-11-05 16:33:20.9631|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'AspNetCoreMVC.Controllers.HomeController.Index (AspNetCoreMVC)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2023-11-05 16:33:20.9631|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'AspNetCoreMVC.Controllers.HomeController.Index (AspNetCoreMVC)'
+2023-11-05 16:33:20.9631|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:20.9795|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint.
+2023-11-05 16:33:21.0305|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated.
+2023-11-05 16:33:21.0305|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'AspNetCoreMVC.Controllers.HomeController.Index (AspNetCoreMVC)'
+2023-11-05 16:33:21.1084|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller AspNetCoreMVC.Controllers.HomeController (AspNetCoreMVC).
+2023-11-05 16:33:21.1084|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter
+2023-11-05 16:33:21.1084|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:21.1084|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2023-11-05 16:33:21.1084|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2023-11-05 16:33:21.1084|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:21.1084|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: Before executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:21.1084|INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2023-11-05 16:33:21.1084|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: After executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:21.1084|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+2023-11-05 16:33:21.1084|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ChallengeResult.
+2023-11-05 16:33:21.1188|INFO|Microsoft.AspNetCore.Mvc.ChallengeResult|Executing ChallengeResult with authentication schemes ().
+2023-11-05 16:33:21.1397|INFO|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was challenged.
+2023-11-05 16:33:21.1397|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ChallengeResult.
+2023-11-05 16:33:21.1397|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action AspNetCoreMVC.Controllers.HomeController.Index (AspNetCoreMVC) in 30.6636ms
+2023-11-05 16:33:21.1397|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'AspNetCoreMVC.Controllers.HomeController.Index (AspNetCoreMVC)'
+2023-11-05 16:33:21.1662|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18086456121505087491" disconnecting.
+2023-11-05 16:33:21.1662|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/Account/Login?ReturnUrl=%2F - -
+2023-11-05 16:33:21.1662|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:21.2059|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/Account/Login'
+2023-11-05 16:33:21.2059|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Account/Login'
+2023-11-05 16:33:21.2059|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)'
+2023-11-05 16:33:21.2059|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:21.2059|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint.
+2023-11-05 16:33:21.2486|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated.
+2023-11-05 16:33:21.2486|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)'
+2023-11-05 16:33:21.2486|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/ - - - 302 - - 369.7674ms
+2023-11-05 16:33:21.2793|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(System.String) on controller AspNetCoreMVC.Controllers.Account.AccountController (AspNetCoreMVC).
+2023-11-05 16:33:21.2793|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter
+2023-11-05 16:33:21.2793|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:21.2793|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2023-11-05 16:33:21.2793|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2023-11-05 16:33:21.2793|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:21.2793|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: Before executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:21.2793|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: After executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:21.2793|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:21.2793|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:21.2793|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller AspNetCoreMVC.Controllers.Account.AccountController (AspNetCoreMVC)
+2023-11-05 16:33:21.5441|DEBUG|Microsoft.EntityFrameworkCore.Infrastructure|An 'IServiceProvider' was created for internal use by Entity Framework.
+2023-11-05 16:33:21.6359|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller AspNetCoreMVC.Controllers.Account.AccountController (AspNetCoreMVC)
+2023-11-05 16:33:21.6512|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'returnUrl' of type 'System.String' ...
+2023-11-05 16:33:21.6512|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Attempting to bind parameter 'returnUrl' of type 'System.String' using the name 'returnUrl' in request data ...
+2023-11-05 16:33:21.6512|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Done attempting to bind parameter 'returnUrl' of type 'System.String'.
+2023-11-05 16:33:21.6512|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'returnUrl' of type 'System.String'.
+2023-11-05 16:33:21.6512|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'returnUrl' of type 'System.String' ...
+2023-11-05 16:33:21.6512|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'returnUrl' of type 'System.String'.
+2023-11-05 16:33:21.6512|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter.
+2023-11-05 16:33:21.6512|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:21.6512|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:21.6707|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC) - Validation state: Valid
+2023-11-05 16:33:21.6707|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC) with arguments (/)
+2023-11-05 16:33:21.6707|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC), returned result Microsoft.AspNetCore.Mvc.ViewResult in 3.6356ms.
+2023-11-05 16:33:21.6707|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:21.6707|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:21.6707|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter.
+2023-11-05 16:33:21.6707|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:21.6707|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:21.6707|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ViewResult.
+2023-11-05 16:33:21.6844|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Login' in controller 'Account'.
+2023-11-05 16:33:21.6844|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Account/Login.cshtml'.
+2023-11-05 16:33:21.6844|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Account/_ViewStart.cshtml'.
+2023-11-05 16:33:21.6844|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/_ViewStart.cshtml'.
+2023-11-05 16:33:21.6844|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/_ViewStart.cshtml'.
+2023-11-05 16:33:21.6971|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Login.
+2023-11-05 16:33:21.6971|DEBUG|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view path '/Views/Account/Login.cshtml' was found in 14.6435ms.
+2023-11-05 16:33:21.8027|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing protect operation to key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} with purposes ('C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1').
+2023-11-05 16:33:21.8027|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing protect operation to key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} with purposes ('C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1').
+2023-11-05 16:33:21.8072|DEBUG|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|A new antiforgery cookie token was created.
+2023-11-05 16:33:21.8615|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:21.8706|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Account/ForgotPassword and 
+2023-11-05 16:33:21.8706|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Account/ForgotPassword
+2023-11-05 16:33:21.8706|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:21.8706|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Account/ExternalLogin and ?returnUrl=%2F
+2023-11-05 16:33:21.8706|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Account/ExternalLogin?returnUrl=%2F
+2023-11-05 16:33:21.8706|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view '_Layout' in controller 'Account'.
+2023-11-05 16:33:21.8706|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Account/_Layout.cshtml'.
+2023-11-05 16:33:21.8706|TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/_Layout.cshtml'.
+2023-11-05 16:33:21.9169|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:21.9169|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2023-11-05 16:33:21.9169|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /
+2023-11-05 16:33:21.9169|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:21.9169|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2023-11-05 16:33:21.9169|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /
+2023-11-05 16:33:21.9169|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:21.9169|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /home/create and 
+2023-11-05 16:33:21.9169|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /home/create
+2023-11-05 16:33:21.9169|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:21.9169|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /account/login and 
+2023-11-05 16:33:21.9169|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /account/login
+2023-11-05 16:33:21.9169|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:21.9169|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /account/register and 
+2023-11-05 16:33:21.9169|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /account/register
+2023-11-05 16:33:22.0838|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Login executed in 401.3699ms.
+2023-11-05 16:33:22.0838|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ViewResult.
+2023-11-05 16:33:22.0838|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.0838|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.0885|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.0885|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.0885|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC) in 809.8556ms
+2023-11-05 16:33:22.0885|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)'
+2023-11-05 16:33:22.1154|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection.
+2023-11-05 16:33:22.1295|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection.
+2023-11-05 16:33:22.1295|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686489066864650" disconnecting.
+2023-11-05 16:33:22.1399|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/lib/jquery/jquery.js - -
+2023-11-05 16:33:22.1399|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.1399|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/Account/Login?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 975.7049ms
+2023-11-05 16:33:22.1399|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/lib/jquery/jquery.js'
+2023-11-05 16:33:22.1399|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2023-11-05 16:33:22.1399|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.1399|TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty.
+2023-11-05 16:33:22.1708|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/css/site.css?v=F7tU6GOx7ID7yJ_3wlqXJZSA-eMwm8KnuSZISw3ix8o - -
+2023-11-05 16:33:22.1708|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/lib/jquery-validate/jquery.validate.js - -
+2023-11-05 16:33:22.1708|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.1708|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.1708|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/css/site.css'
+2023-11-05 16:33:22.1708|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/lib/jquery-validate/jquery.validate.js'
+2023-11-05 16:33:22.1708|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2023-11-05 16:33:22.1708|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2023-11-05 16:33:22.1708|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.1708|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.1708|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js - -
+2023-11-05 16:33:22.1708|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.1708|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js'
+2023-11-05 16:33:22.1708|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2023-11-05 16:33:22.1708|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.1708|TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty.
+2023-11-05 16:33:22.1708|TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty.
+2023-11-05 16:33:22.1708|TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty.
+2023-11-05 16:33:22.1708|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/AspNetCoreMVC.styles.css - -
+2023-11-05 16:33:22.1708|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.1708|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/AspNetCoreMVC.styles.css'
+2023-11-05 16:33:22.1708|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2023-11-05 16:33:22.1708|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /AspNetCoreMVC.styles.css does not match an existing file
+2023-11-05 16:33:22.1820|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/lib/jquery/dist/jquery.min.js - -
+2023-11-05 16:33:22.1820|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/lib/jquery/dist/jquery.min.js'
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.1820|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/lib/bootstrap/js/bootstrap.js - -
+2023-11-05 16:33:22.1820|TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty.
+2023-11-05 16:33:22.1820|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.1820|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/lib/bootstrap/dist/js/bootstrap.bundle.min.js - -
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/lib/bootstrap/js/bootstrap.js'
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2023-11-05 16:33:22.1820|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /lib/bootstrap/js/bootstrap.js does not match an existing file
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.1820|TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty.
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated.
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated.
+2023-11-05 16:33:22.1820|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/AspNetCoreMVC.styles.css - - - 302 - - 15.4702ms
+2023-11-05 16:33:22.1820|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/lib/bootstrap/js/bootstrap.js - - - 302 - - 5.1304ms
+2023-11-05 16:33:22.1820|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/Error/404 - -
+2023-11-05 16:33:22.1820|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/Error/404'
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC)' with route pattern 'Error/{statusCode}' is valid for the request path '/Error/404'
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC)'
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint.
+2023-11-05 16:33:22.1820|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated.
+2023-11-05 16:33:22.1820|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC)'
+2023-11-05 16:33:22.1993|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "HttpStatusCodePages", controller = "Error"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult HttpStatusCodePages(Int32) on controller AspNetCoreMVC.Controllers.ErrorController (AspNetCoreMVC).
+2023-11-05 16:33:22.1993|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter
+2023-11-05 16:33:22.1993|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:22.1993|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2023-11-05 16:33:22.1993|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2023-11-05 16:33:22.1993|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:22.1993|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: Before executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:22.1993|INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2023-11-05 16:33:22.1993|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: After executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:22.1993|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+2023-11-05 16:33:22.1993|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ChallengeResult.
+2023-11-05 16:33:22.1993|INFO|Microsoft.AspNetCore.Mvc.ChallengeResult|Executing ChallengeResult with authentication schemes ().
+2023-11-05 16:33:22.1993|INFO|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was challenged.
+2023-11-05 16:33:22.1993|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ChallengeResult.
+2023-11-05 16:33:22.1993|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC) in 1.5639ms
+2023-11-05 16:33:22.1993|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC)'
+2023-11-05 16:33:22.1993|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/Error/404 - - - 302 - - 7.5077ms
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/Error/404 - -
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/Account/Login?ReturnUrl=%2FError%2F404 - -
+2023-11-05 16:33:22.2140|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.2140|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/Error/404'
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC)' with route pattern 'Error/{statusCode}' is valid for the request path '/Error/404'
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC)'
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint.
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated.
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC)'
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "HttpStatusCodePages", controller = "Error"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult HttpStatusCodePages(Int32) on controller AspNetCoreMVC.Controllers.ErrorController (AspNetCoreMVC).
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:22.2140|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: Before executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2023-11-05 16:33:22.2140|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: After executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+2023-11-05 16:33:22.2140|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ChallengeResult.
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.Mvc.ChallengeResult|Executing ChallengeResult with authentication schemes ().
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was challenged.
+2023-11-05 16:33:22.2140|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ChallengeResult.
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC) in 2.6962ms
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC)'
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery-validate/jquery.validate.js'. Physical path: 'C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\wwwroot\lib\jquery-validate\jquery.validate.js'
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18086456121505087493" disconnecting.
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\wwwroot\css\site.css'
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/Error/404 - - - 302 - - 6.3503ms
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/css/site.css?v=F7tU6GOx7ID7yJ_3wlqXJZSA-eMwm8KnuSZISw3ix8o - - - 200 274 text/css 49.7243ms
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js'. Physical path: 'C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js'
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js - - - 200 19820 application/javascript 48.6969ms
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/Account/Login'
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Account/Login'
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)'
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint.
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated.
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)'
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571300991008769" disconnecting.
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(System.String) on controller AspNetCoreMVC.Controllers.Account.AccountController (AspNetCoreMVC).
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:22.2140|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: Before executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:22.2140|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: After executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:22.2140|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2140|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/lib/jquery-validate/jquery.validate.js - - - 200 51171 application/javascript 52.6814ms
+2023-11-05 16:33:22.2140|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2140|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller AspNetCoreMVC.Controllers.Account.AccountController (AspNetCoreMVC)
+2023-11-05 16:33:22.2299|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571318170877967" disconnecting.
+2023-11-05 16:33:22.2299|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 200 78468 application/javascript 45.6371ms
+2023-11-05 16:33:22.2299|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery/jquery.js'. Physical path: 'C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\wwwroot\lib\jquery\jquery.js'
+2023-11-05 16:33:22.2299|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\wwwroot\lib\jquery\dist\jquery.min.js'
+2023-11-05 16:33:22.2299|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/js/site.js?v=O34GY8m7P3224qrV1cIbyxn3SAlh5HXW3D6zvKd6p1g - -
+2023-11-05 16:33:22.2299|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.2299|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/js/site.js'
+2023-11-05 16:33:22.2299|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2023-11-05 16:33:22.2299|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.2299|TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty.
+2023-11-05 16:33:22.2299|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\wwwroot\js\site.js'
+2023-11-05 16:33:22.2299|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/js/site.js?v=O34GY8m7P3224qrV1cIbyxn3SAlh5HXW3D6zvKd6p1g - - - 200 614 application/javascript 3.9292ms
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18158513719837982721" disconnecting.
+2023-11-05 16:33:22.2461|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/lib/jquery/dist/jquery.min.js - - - 200 89476 application/javascript 62.6586ms
+2023-11-05 16:33:22.2461|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/_framework/aspnetcore-browser-refresh.js - -
+2023-11-05 16:33:22.2461|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/lib/bootstrap/css/bootstrap.min.css - -
+2023-11-05 16:33:22.2461|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/lib/bootstrap/css/bootstrap.min.css'
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /lib/bootstrap/css/bootstrap.min.css does not match an existing file
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated.
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18086456121505087495" disconnecting.
+2023-11-05 16:33:22.2461|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/lib/bootstrap/css/bootstrap.min.css - - - 302 - - 1.0292ms
+2023-11-05 16:33:22.2461|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/Error/404 - -
+2023-11-05 16:33:22.2461|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/Error/404'
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC)' with route pattern 'Error/{statusCode}' is valid for the request path '/Error/404'
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC)'
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint.
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated.
+2023-11-05 16:33:22.2461|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC)'
+2023-11-05 16:33:22.2461|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "HttpStatusCodePages", controller = "Error"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult HttpStatusCodePages(Int32) on controller AspNetCoreMVC.Controllers.ErrorController (AspNetCoreMVC).
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:22.2461|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: Before executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:22.2461|INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2023-11-05 16:33:22.2461|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: After executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:22.2461|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+2023-11-05 16:33:22.2461|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ChallengeResult.
+2023-11-05 16:33:22.2461|INFO|Microsoft.AspNetCore.Mvc.ChallengeResult|Executing ChallengeResult with authentication schemes ().
+2023-11-05 16:33:22.2461|INFO|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was challenged.
+2023-11-05 16:33:22.2461|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ChallengeResult.
+2023-11-05 16:33:22.2461|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC) in 0.2116ms
+2023-11-05 16:33:22.2461|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC)'
+2023-11-05 16:33:22.2461|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/Error/404 - - - 302 - - 1.3760ms
+2023-11-05 16:33:22.2461|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686489066864652" disconnecting.
+2023-11-05 16:33:22.2461|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/lib/jquery/jquery.js - - - 200 284996 application/javascript 118.5681ms
+2023-11-05 16:33:22.2680|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18014398527467159553" disconnecting.
+2023-11-05 16:33:22.2680|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/_framework/aspnetcore-browser-refresh.js - - - 200 11996 application/javascript;+charset=utf-8 15.2702ms
+2023-11-05 16:33:22.2680|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller AspNetCoreMVC.Controllers.Account.AccountController (AspNetCoreMVC)
+2023-11-05 16:33:22.2680|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'returnUrl' of type 'System.String' ...
+2023-11-05 16:33:22.2680|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Attempting to bind parameter 'returnUrl' of type 'System.String' using the name 'returnUrl' in request data ...
+2023-11-05 16:33:22.2680|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Done attempting to bind parameter 'returnUrl' of type 'System.String'.
+2023-11-05 16:33:22.2680|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'returnUrl' of type 'System.String'.
+2023-11-05 16:33:22.2680|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'returnUrl' of type 'System.String' ...
+2023-11-05 16:33:22.2680|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'returnUrl' of type 'System.String'.
+2023-11-05 16:33:22.2680|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter.
+2023-11-05 16:33:22.2680|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:22.2680|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:22.2680|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC) - Validation state: Valid
+2023-11-05 16:33:22.2680|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC) with arguments (/Error/404)
+2023-11-05 16:33:22.2680|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.1048ms.
+2023-11-05 16:33:22.2680|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:22.2680|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:22.2680|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter.
+2023-11-05 16:33:22.2680|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2680|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2680|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ViewResult.
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view 'Login' in controller 'Account'.
+2023-11-05 16:33:22.2754|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Login.
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view path '/Views/Account/Login.cshtml' was found in 0.3172ms.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing unprotect operation to key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} with purposes ('C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1').
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing protect operation to key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} with purposes ('C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1').
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|An antiforgery cookie token was reused.
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Account/ForgotPassword and 
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Account/ForgotPassword
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Account/ExternalLogin and ?returnUrl=%2FError%2F404
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Account/ExternalLogin?returnUrl=%2FError%2F404
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|An antiforgery cookie token was reused.
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view '_Layout' in controller 'Account'.
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /home/create and 
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /home/create
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /account/login and 
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /account/login
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /account/register and 
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /account/register
+2023-11-05 16:33:22.2754|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Login executed in 6.5373ms.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ViewResult.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2754|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC) in 58.52ms
+2023-11-05 16:33:22.2754|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)'
+2023-11-05 16:33:22.2754|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/Account/Login?ReturnUrl=%2FError%2F404 - - - 200 - text/html;+charset=utf-8 68.1143ms
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18158513715543015429" disconnecting.
+2023-11-05 16:33:22.2754|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/Account/Login?ReturnUrl=%2FError%2F404 - -
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/Account/Login'
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Account/Login'
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)'
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint.
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated.
+2023-11-05 16:33:22.2754|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)'
+2023-11-05 16:33:22.2754|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(System.String) on controller AspNetCoreMVC.Controllers.Account.AccountController (AspNetCoreMVC).
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: Before executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: After executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller AspNetCoreMVC.Controllers.Account.AccountController (AspNetCoreMVC)
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller AspNetCoreMVC.Controllers.Account.AccountController (AspNetCoreMVC)
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'returnUrl' of type 'System.String' ...
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Attempting to bind parameter 'returnUrl' of type 'System.String' using the name 'returnUrl' in request data ...
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Done attempting to bind parameter 'returnUrl' of type 'System.String'.
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'returnUrl' of type 'System.String'.
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'returnUrl' of type 'System.String' ...
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'returnUrl' of type 'System.String'.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:22.2754|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC) - Validation state: Valid
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC) with arguments (/Error/404)
+2023-11-05 16:33:22.2754|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0355ms.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2754|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ViewResult.
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view 'Login' in controller 'Account'.
+2023-11-05 16:33:22.2754|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Login.
+2023-11-05 16:33:22.2754|DEBUG|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view path '/Views/Account/Login.cshtml' was found in 0.1143ms.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing unprotect operation to key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} with purposes ('C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1').
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing protect operation to key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} with purposes ('C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1').
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|An antiforgery cookie token was reused.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Account/ForgotPassword and 
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Account/ForgotPassword
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Account/ExternalLogin and ?returnUrl=%2FError%2F404
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Account/ExternalLogin?returnUrl=%2FError%2F404
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|An antiforgery cookie token was reused.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view '_Layout' in controller 'Account'.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /home/create and 
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /home/create
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /account/login and 
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /account/login
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /account/register and 
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /account/register
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Login executed in 2.703ms.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ViewResult.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC) in 8.6938ms
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)'
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/Account/Login?ReturnUrl=%2FError%2F404 - - - 200 - text/html;+charset=utf-8 9.2725ms
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/Account/Login?ReturnUrl=%2FError%2F404 - -
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/Account/Login'
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Account/Login'
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)'
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated.
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)'
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(System.String) on controller AspNetCoreMVC.Controllers.Account.AccountController (AspNetCoreMVC).
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: Before executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: After executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller AspNetCoreMVC.Controllers.Account.AccountController (AspNetCoreMVC)
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller AspNetCoreMVC.Controllers.Account.AccountController (AspNetCoreMVC)
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'returnUrl' of type 'System.String' ...
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Attempting to bind parameter 'returnUrl' of type 'System.String' using the name 'returnUrl' in request data ...
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Done attempting to bind parameter 'returnUrl' of type 'System.String'.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'returnUrl' of type 'System.String'.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'returnUrl' of type 'System.String' ...
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'returnUrl' of type 'System.String'.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC) - Validation state: Valid
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC) with arguments (/Error/404)
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0178ms.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ViewResult.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view 'Login' in controller 'Account'.
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Login.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view path '/Views/Account/Login.cshtml' was found in 0.043ms.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing unprotect operation to key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} with purposes ('C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1').
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing protect operation to key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} with purposes ('C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1').
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/images/employees.png - -
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|An antiforgery cookie token was reused.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/images/employees.png'
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /images/employees.png does not match an existing file
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Account/ForgotPassword and 
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Account/ForgotPassword
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/images/employees.png - - - 302 - - 0.6549ms
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Account/ExternalLogin and ?returnUrl=%2FError%2F404
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Account/ExternalLogin?returnUrl=%2FError%2F404
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|An antiforgery cookie token was reused.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view '_Layout' in controller 'Account'.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /home/create and 
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /home/create
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /account/login and 
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /account/login
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /account/register and 
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /account/register
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Login executed in 2.4408ms.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ViewResult.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC) in 3.2402ms
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)'
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/Account/Login?ReturnUrl=%2FError%2F404 - - - 200 - text/html;+charset=utf-8 3.9450ms
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18158513698363146243" disconnecting.
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/Error/404 - -
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/Error/404'
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC)' with route pattern 'Error/{statusCode}' is valid for the request path '/Error/404'
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC)'
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint.
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated.
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC)'
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "HttpStatusCodePages", controller = "Error"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult HttpStatusCodePages(Int32) on controller AspNetCoreMVC.Controllers.ErrorController (AspNetCoreMVC).
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2023-11-05 16:33:22.2903|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: Before executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: After executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ChallengeResult.
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Mvc.ChallengeResult|Executing ChallengeResult with authentication schemes ().
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was challenged.
+2023-11-05 16:33:22.2903|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ChallengeResult.
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC) in 0.229ms
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'AspNetCoreMVC.Controllers.ErrorController.HttpStatusCodePages (AspNetCoreMVC)'
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/Error/404 - - - 302 - - 1.1691ms
+2023-11-05 16:33:22.2903|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/_vs/browserLink - -
+2023-11-05 16:33:22.3122|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/Account/Login?ReturnUrl=%2FError%2F404 - -
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/Account/Login'
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Account/Login'
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)'
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint.
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Identity.Application was not authenticated.
+2023-11-05 16:33:22.3122|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)'
+2023-11-05 16:33:22.3122|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(System.String) on controller AspNetCoreMVC.Controllers.Account.AccountController (AspNetCoreMVC).
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: Before executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Authorization Filter: After executing OnAuthorizationAsync on filter Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller AspNetCoreMVC.Controllers.Account.AccountController (AspNetCoreMVC)
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller AspNetCoreMVC.Controllers.Account.AccountController (AspNetCoreMVC)
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'returnUrl' of type 'System.String' ...
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Attempting to bind parameter 'returnUrl' of type 'System.String' using the name 'returnUrl' in request data ...
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Done attempting to bind parameter 'returnUrl' of type 'System.String'.
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'returnUrl' of type 'System.String'.
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'returnUrl' of type 'System.String' ...
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'returnUrl' of type 'System.String'.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:22.3122|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC) - Validation state: Valid
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC) with arguments (/Error/404)
+2023-11-05 16:33:22.3122|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0247ms.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ViewResult.
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view 'Login' in controller 'Account'.
+2023-11-05 16:33:22.3122|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Login.
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view path '/Views/Account/Login.cshtml' was found in 0.0452ms.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing unprotect operation to key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} with purposes ('C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1').
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing protect operation to key {e16e723b-4e4c-43b1-bfd8-141f8ac67a05} with purposes ('C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1').
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|An antiforgery cookie token was reused.
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Account/ForgotPassword and 
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Account/ForgotPassword
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Account/ExternalLogin and ?returnUrl=%2FError%2F404
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /Account/ExternalLogin?returnUrl=%2FError%2F404
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|An antiforgery cookie token was reused.
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view '_Layout' in controller 'Account'.
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /home/create and 
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /home/create
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /account/login and 
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /account/login
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Home}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /account/register and 
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Home}/{action=Index}/{id?} with result /account/register
+2023-11-05 16:33:22.3122|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Login executed in 3.1361ms.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ViewResult.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.3122|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter.
+2023-11-05 16:33:22.3122|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC) in 3.9749ms
+2023-11-05 16:33:22.3122|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'AspNetCoreMVC.Controllers.Account.AccountController.Login (AspNetCoreMVC)'
+2023-11-05 16:33:22.3122|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/Account/Login?ReturnUrl=%2FError%2F404 - - - 200 - text/html;+charset=utf-8 5.5125ms
+2023-11-05 16:33:22.3122|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571318170877969" disconnecting.
+2023-11-05 16:33:22.3915|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686510541701127" disconnecting.
+2023-11-05 16:33:22.3915|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 91.3905ms
+2023-11-05 16:33:22.4260|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44308/favicon.ico - -
+2023-11-05 16:33:22.4260|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2023-11-05 16:33:22.4260|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/favicon.ico'
+2023-11-05 16:33:22.4260|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2023-11-05 16:33:22.4260|DEBUG|Microsoft.AspNetCore.HttpsPolicy.HstsMiddleware|The host 'localhost' is excluded. Skipping HSTS header.
+2023-11-05 16:33:22.4260|TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty.
+2023-11-05 16:33:22.4260|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\vasan\source\repos\AspNetCoreMVC\AspNetCoreMVC\wwwroot\favicon.ico'
+2023-11-05 16:33:22.4260|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44308/favicon.ico - - - 200 5430 image/x-icon 4.0773ms
+2023-11-05 16:33:22.4260|DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18158513698363146245" disconnecting.

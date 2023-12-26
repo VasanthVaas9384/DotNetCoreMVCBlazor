@@ -1,0 +1,21 @@
+﻿@using System.Security.Claims
+@inject IHttpContextAccessor httpContextAccessor
+<div class="text-center">
+    <h1 class="text-danger">Access Denied</h1>
+    @{
+
+        var loggedInAdminId = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.NameIdentifier).Value.ToString();
+
+        var adminIdBeingEdited = httpContextAccessor.HttpContext.Request.Query["userId"].ToString();
+
+        @if (User.IsInRole("Admin")
+    && User.HasClaim(c => c.Type == "Edit Role" && c.Value == "true")
+    && adminIdBeingEdited.ToLower() != loggedInAdminId.ToLower())
+        {
+           <h1>You are not allowed to change your own role</h1>
+        }
+
+    }
+    <h6 class="text-danger">You do not have persmission to view this resource</h6>
+    <img src="~/images/noaccess.png" style="height:300px; width:300px" />
+</div>
